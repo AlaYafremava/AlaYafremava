@@ -1,10 +1,10 @@
-# Hi there!
+# Hi there! I'm Ala
 
 ### :woman_technologist: About Me:
-I am a JavaScript Developer with over 3 years of experience in React JS, Node JS, and TypeScript. Proficient in English (B2 level).
+I am a JavaScript Developer with over 3 years of experience in React JS, Node JS, and TypeScript.
+Proficient in English (B2 level).
 
 ### :fire: GitHub Stats
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlaYafremava&show_icons=true&theme=dark&hide=issues)](https://github.com/AllaYefremova) 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZyZzV5MHpxa2Rhenk3MGNqcXlkMGZ6aDIzOTJ2N3M3eG1ldmJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaYafremava&show_icons=true&theme=dark&layout=compact&hide=handlebars)](https://github.com/AllaYefremova)
