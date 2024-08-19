@@ -2,6 +2,7 @@
 
 ### :woman_technologist: About Me:
 I am a JavaScript Developer with over 3 years of experience in React JS, Node JS, and TypeScript.
+<br />
 Proficient in English (B2 level).
 
 ### :fire: GitHub Stats
