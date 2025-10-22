@@ -6,9 +6,12 @@ I am a JavaScript Developer with over 3 years of experience in React JS, Node JS
 Proficient in English: upper-intermediate (B2).
 
 ### :fire: GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlaYafremava&show_icons=true&theme=light&hide=issues)](https://github.com/AlaYafremava) 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaYafremava&show_icons=true&theme=light&hide=issues,prs,contribs&hide_border=true&count_private=true)](https://github.com/AlaYafremava)
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZyZzV5MHpxa2Rhenk3MGNqcXlkMGZ6aDIzOTJ2N3M3eG1ldmJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaYafremava&show_icons=true&theme=light&layout=compact&hide=handlebars)](https://github.com/AlaYafremava)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaYafremava&show_icons=true&theme=light&layout=compact&hide=html,css,handlebars&hide_border=true)](https://github.com/AlaYafremava)
 
 
 ### :hammer_and_wrench: Languages and Tools:
