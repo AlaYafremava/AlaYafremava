@@ -7,7 +7,7 @@ Proficient in English: upper-intermediate (B2).
 
 ### :fire: GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaYafremava&show_icons=true)
 
