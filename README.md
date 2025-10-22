@@ -7,11 +7,15 @@ Proficient in English: upper-intermediate (B2).
 
 ### :fire: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaYafremava&show_icons=true)
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaYafremava&show_icons=true&theme=light&hide_border=true)](https://github.com/AlaYafremava)
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZyZzV5MHpxa2Rhenk3MGNqcXlkMGZ6aDIzOTJ2N3M3eG1ldmJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaYafremava&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaYafremava&layout=compact&theme=light&hide_border=true)](https://github.com/AlaYafremava)
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
